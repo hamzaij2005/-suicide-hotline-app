@@ -30,3 +30,44 @@ For detailed deployment instructions, architecture diagrams, and testing evidenc
 
 ---
 *Developed as part of the DevOps Lab Project.*
+
+
+---
+---
+## 🚀 Project Demo
+
+### 🖼️ Web App Screenshots
+
+<p align="center">
+  <img src="images/demo1.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="images/demo2.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="images/demo3.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="images/demo4.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="images/demo5.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="images/demo6.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="images/demo7.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="images/demo8.png" width="600"/>
+</p>
+---
+---
