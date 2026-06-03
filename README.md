@@ -22,7 +22,7 @@ docker run -d --restart=always -p 5000:5000 --name hopeconnect-app hotline-app:v
 Visit `http://localhost:5000` to see the app locally.
 
 ## 🌐 Live Demo
-The application is currently live on AWS EC2:
+The application was previously deployed and running on AWS EC2 as part of the project deployment phase. The cloud instance has since been terminated, so the live demo is no longer available:
 **[http://13.234.226.40:5000](http://13.234.226.40:5000)**
 
 ## 📝 Documentation
